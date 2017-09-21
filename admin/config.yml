@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/workJoi/wp2jekyll-netifly.git # Path to your Github repository
+  repo: workJoi/wp2jekyll-netifly # Path to your Github repository
   branch: master # Branch to update
 publish_mode: editorial_workflow
 media_folder: "media"
